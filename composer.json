@@ -19,5 +19,10 @@
   "require": {
     "ext-curl": "*",
     "php": ">=5.5.0"
-  }
+  },
+	"autoload": {
+		"files": [
+			"imdb.class.php"
+		]
+	}
 }
