@@ -1,5 +1,5 @@
 {
-  "name": "fabianbeiner/php-imdb-grabber",
+  "name": "centrual/php-imdb-grabber",
   "type": "library",
   "description": "This PHP library enables you to scrap data from IMDB.com.",
   "keywords": [
